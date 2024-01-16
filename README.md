@@ -1,1 +1,1 @@
-A website to host links to creative writing projects by Olive Ann Tucker.
+A website that hosts links to creative writing projects published by Olive Ann Tucker.
